@@ -1,9 +1,7 @@
 package com.gvtester.restapi;
 
 import org.junit.Test;
-import org.junit.Assert;
 import static com.jayway.restassured.RestAssured.*;
-import static com.jayway.restassured.matcher.RestAssuredMatchers.*;
 import static org.hamcrest.Matchers.equalTo;
 
 

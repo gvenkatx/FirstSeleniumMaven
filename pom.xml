@@ -37,6 +37,13 @@
             <version>1.3.5</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.codehaus.groovy</groupId>
+            <artifactId>groovy-all</artifactId>
+            <!-- If possible, its better if this matches 2.1.8 in the plugin definition -->
+            <!-- but 2.2.1 worked fine here and allowed me to keep the original pom definition  -->
+            <version>2.3.9</version>
+        </dependency>
     </dependencies>
 
 </project>
