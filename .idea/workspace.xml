@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d84012f6-9486-422e-be76-848e24bc06c6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/gvtester/restapi/FirstTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/gvtester/restapi/FirstTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FirstSeleniumMaven.iml" afterPath="$PROJECT_DIR$/FirstSeleniumMaven.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/gvtester/restapi/FirstTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/gvtester/restapi/FirstTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FirstSeleniumMaven.iws" />
@@ -525,10 +520,17 @@
       <option name="number" value="Default" />
       <updated>1439681068181</updated>
     </task>
+    <task id="LOCAL-00001" summary="First change">
+      <created>1440738461042</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1440738461042</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -566,6 +568,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First change" />
+    <option name="LAST_COMMIT_MESSAGE" value="First change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
